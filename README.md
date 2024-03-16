@@ -14,3 +14,10 @@ This GitHub repository hosts an innovative integration of facial keypoint estima
   Details of the MPII dataset used for training the facial keypoint estimation model are provided, ensuring transparency and reproducibility of the results.
 ### Comprehensive Documentation: 
   Detailed documentation guides users through setting up the project, training the model, integrating WebSocket communication, and running the Unity game. Additionally, explanations of the algorithm and its implementation are included to aid understanding.
+
+## Documentation:
+
+### Model Documentation (mode/README.md): 
+  Details of data preprocessing, model architecture, training process, and model performance evaluation.
+### Game Documentation (game/README.md): 
+  Overview of the Unity project structure, implementation of character control using facial keypoints, and instructions for running and customizing the game.4
