@@ -15,8 +15,6 @@ This GitHub repository hosts an innovative integration of facial keypoint estima
   Complete Unity project showcasing the endless runner game, where the character's movement is controlled based on the detected facial keypoints. Players can navigate the game environment by moving their head left, right, or keeping it centered.
 ### MPII Dataset Training: 
   Details of the MPII dataset used for training the facial keypoint estimation model are provided, ensuring transparency and reproducibility of the results.
-### Comprehensive Documentation: 
-  Detailed documentation guides users through setting up the project, training the model, integrating WebSocket communication, and running the Unity game.
 
 
 
