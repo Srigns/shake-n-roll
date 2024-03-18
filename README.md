@@ -3,7 +3,7 @@
 This GitHub repository hosts an innovative integration of facial keypoint estimation with an endless runner game using TensorFlow in Python and Unity in C#. The project leverages a ResNet50 architecture for facial keypoint detection, trained on the MPII dataset, to extract crucial facial landmarks. With these landmarks, the game interprets the player's facial movements and translates them into control signals for character movement within the endless runner environment.
 
 
-<br/><br/>
+<br/>
 
 ## Project Highlights:
 
@@ -18,7 +18,7 @@ This GitHub repository hosts an innovative integration of facial keypoint estima
 
 
 
-
+<br/>
 ## Documentation:
 
 ### Model Documentation (mode/README.md): 
