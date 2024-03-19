@@ -21,3 +21,39 @@ To train the model, follow these steps:
    <br />
    * Use the `Training_Model.ipynb` Jupyter notebook to train the ResNet50 model with imagenet weights on the
      preprocessed data.
+
+<br/>
+
+## Using the Trained Model
+
+To use the trained model in your application, follow these steps:
+
+1. **Download the Model**:
+   <br />
+   * Download the model if you don't want to train your own from here : `https://www.kaggle.com/models/binarybrainiac/model`.
+   * Put the model.h5 in the exported_model/ directory.
+
+2. **Run the Model**:
+   <br />
+   * Use the Run_Model.ipynb Jupyter notebook to run the `exported_model/model.h5` model.
+     
+
+<br/>
+
+## Converting h5 to tflite
+
+To use the trained model in your application, follow these steps:
+
+1. **Download the Model**:
+   <br />
+   * Download the model if you don't want to train your own from here : `https://www.kaggle.com/models/binarybrainiac/model`.
+   * Put the model.h5 in the exported_model/ directory.
+
+2. **Convert the h5**:
+   <br />
+   * Use the `Convert.ipynb` Jupyter notebook to Convert the `exported_model/model.h5` to `exported_model/model.tflite`.
+
+
+
+
+
